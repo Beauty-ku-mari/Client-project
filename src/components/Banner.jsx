@@ -18,11 +18,11 @@ const Banner = () => {
   };
 
   const images = [
-    "/assets/image5.jpg",
-    "/assets/image 8.jpg",
-    "/assets/image11.jpg",
-    "/assets/image2.jpg",
- "/assets/image1.jpg",
+    "https://github.com/Beauty-ku-mari/Client-project/blob/main/public/assets/image5.jpg",
+    "https://github.com/Beauty-ku-mari/Client-project/blob/main/public/assets/image8.jpg",
+    "https://github.com/Beauty-ku-mari/Client-project/blob/main/public/assets/image11.jpg",
+    "/https://github.com/Beauty-ku-mari/Client-project/blob/main/public/assets/image2.jpg",
+ "https://github.com/Beauty-ku-mari/Client-project/blob/main/public/assets/image1.jpg",
 
     
   ];
