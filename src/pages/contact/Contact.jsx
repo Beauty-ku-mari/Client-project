@@ -5,8 +5,7 @@ import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope } from "react-icons/fa";
 const Contact = () => {
   return (
 < >
-<div id="contact" className="mt-12"  >
- <section className="bg-[#1a1a1a] text-white  py-12 px-6" >
+ <section className="bg-[#1a1a1a] text-white  py-12 px-6" id="contact" >
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12">
         
         {/* Left: Contact Info */}
@@ -50,14 +49,13 @@ const Contact = () => {
           </div>
           <button
             type="submit"
-            className="bg-purple-600 hover:bg-purple-700 text-white py-3 px-6 rounded-md transition duration-200"
+            className="bg-gray-800 hover:bg-purple-700 text-white py-3 px-6 rounded-md transition duration-200"
           >
             Send Message
           </button>
         </form>
       </div>
     </section>
-</div>
 
 </>
   

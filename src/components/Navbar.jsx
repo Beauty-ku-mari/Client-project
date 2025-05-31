@@ -28,7 +28,7 @@ const Navbar = () => {
           <ul className="flex space-x-6 font-medium">
             <li><a href="/" className="hover:text-gray-300">Home</a></li>
             <li><a href="#about" className="hover:text-gray-300">About</a></li>
-            <li><a href="#school" className="hover:text-gray-300">Educational Details</a></li>
+            <li><a href="#education" className="hover:text-gray-300">Educational Details</a></li>
             <li><a href="#experience" className="hover:text-gray-300">Experience</a></li>
             <li><a href="#contact" className="hover:text-gray-300">Contact</a></li>
           </ul>

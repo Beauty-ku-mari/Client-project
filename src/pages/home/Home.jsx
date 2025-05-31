@@ -7,7 +7,7 @@ import About from '../about/About';
 import Contact from '../contact/Contact';
 import { Experience } from '../experience/Experience';
 import { Education } from '../education/Education';
-
+import Hobbies from '../../components/Hobbies';
 
 
 
@@ -19,8 +19,9 @@ function Home() {
 <Navbar/>
 <Banner></Banner>
 <About></About>
-<Experience></Experience>
 <Education></Education>
+<Experience></Experience>
+<Hobbies></Hobbies>
 <Contact></Contact>
 <Footer></Footer>
     
